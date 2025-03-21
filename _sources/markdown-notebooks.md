@@ -1,10 +1,10 @@
 
 # Crisis Response Manual for Stakeholder Communication
 
-**To:** Donors, Government Partners, Community Leaders, and Key Stakeholders
-**From:** Sarah Kayongo, VP of Programs  
-**Date:** March 21, 2025  
-**Subject:** Crisis Response Manual for Stakeholder Communication
+**To:** Donors, Government Partners, Community Leaders, and Key Stakeholders             
+**From:** Sarah Kayongo, VP of Programs       
+**Date:** March 21, 2025        
+**Subject:** Crisis Response Manual for Stakeholder Communication          
 
 ---
 
