@@ -1,53 +1,69 @@
----
-jupytext:
-  formats: md:myst
-  text_representation:
-    extension: .md
-    format_name: myst
-    format_version: 0.13
-    jupytext_version: 1.11.5
-kernelspec:
-  display_name: Python 3
-  language: python
-  name: python3
+
+# Crisis Response Manual for Stakeholder Communication
+
+**Date:** March 21, 2025  
+**To:** Donors, Government Partners, Community Leaders, and Key Stakeholders  
+**From:** Dr. Sarah Kayongo  
+
+**Title:** Candidate: VP, Programs, GiveDirectly  
+
 ---
 
-# Notebooks with MyST Markdown
+[PDF Version](Crisis-Response.pdf)
 
-Jupyter Book also lets you write text-based notebooks using MyST Markdown.
-See [the Notebooks with MyST Markdown documentation](https://jupyterbook.org/file-types/myst-notebooks.html) for more detailed instructions.
-This page shows off a notebook written in MyST Markdown.
+## Subject: Ongoing Safeguarding and Fraud Investigation Update – DRC Program
 
-## An example cell
+Dear Valued Partners and Stakeholders,
 
-With MyST Markdown, you can define code cells with a directive like so:
+At GiveDirectly, we hold ourselves to the highest standards of transparency, integrity, and safeguarding. Today, I am writing to share an important update regarding a serious safeguarding concern reported in our DRC program.
 
-```{code-cell}
-print(2 + 2)
-```
+### Background
 
-When your book is built, the contents of any `{code-cell}` blocks will be
-executed with your default Jupyter kernel, and their outputs will be displayed
-in-line with the rest of your content.
+In [Month, Year], we received a whistleblower report indicating potential safeguarding violations by former team members previously dismissed following the 2023 fraud investigation. The allegations detail instances where GiveDirectly staff reportedly solicited sexual favors in exchange for program enrollment. This conduct, if confirmed, is a grave violation of our policies and values.
 
-```{seealso}
-Jupyter Book uses [Jupytext](https://jupytext.readthedocs.io/en/latest/) to convert text-based files to notebooks, and can support [many other text-based notebook files](https://jupyterbook.org/file-types/jupytext.html).
-```
+### Immediate Actions
 
-## Create a notebook with MyST Markdown
+Upon receiving this report, we took the following urgent steps:
 
-MyST Markdown notebooks are defined by two things:
+- Convened a crisis response task force including senior safeguarding, legal, regional leadership, and external experts.
+- Launched a remote investigation, given the current conflict restrictions in the region.
+- Engaged independent safeguarding consultants with regional expertise.
+- Enhanced anonymous reporting channels through secure platforms and community networks.
+- Suspended new enrollments in the affected areas as a precautionary measure.
 
-1. YAML metadata that is needed to understand if / how it should convert text files to notebooks (including information about the kernel needed).
-   See the YAML at the top of this page for example.
-2. The presence of `{code-cell}` directives, which will be executed with your book.
+### Protecting Program Participants
 
-That's all that is needed to get started!
+Our first priority is the protection of our recipients and communities. To that end, we are:
 
-## Quickly add YAML metadata for MyST Notebooks
+- Partnering with local NGOs and civil society groups to provide survivor-centered support.
+- Reinforcing community education on safe and confidential reporting avenues.
 
-If you have a markdown file and you'd like to quickly add YAML metadata to it, so that Jupyter Book will treat it as a MyST Markdown Notebook, run the following command:
+### Investigation Process and Monitoring
 
-```
-jupyter-book myst init path/to/markdownfile.md
-```
+We are currently gathering evidence through both remote and third-party investigations, with:
+
+- Regular reporting from local partners.
+- Real-time monitoring systems to identify any ongoing safeguarding threats.
+- Preliminary findings to be shared with stakeholders within [X weeks].
+
+### Long-Term Governance Enhancements
+
+As part of our commitment to continuous improvement, we will:
+
+- Update safeguarding protocols and deliver enhanced field staff training.
+- Establish a third-party whistleblower platform with external oversight.
+- Integrate AI-powered detection tools into program delivery platforms.
+
+### Invitation to Engage
+
+We value your partnership and welcome any information or concerns you may wish to share. Please reach us at [Secure Email Address/Hotline Number].
+
+### Conclusion
+
+We regret that such issues arose and remain deeply committed to safeguarding the dignity, trust, and safety of all program participants. We will continue to communicate transparently as our investigation progresses.
+
+Thank you for your continued trust and partnership.
+
+Sincerely,  
+**Dr. Sarah Kayongo**  
+*Candidate, VP Programs, GiveDirectly*
