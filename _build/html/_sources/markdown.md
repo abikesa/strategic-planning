@@ -1,62 +1,74 @@
-# Strategic Planning
+**MEMORANDUM**  
 
-**TO:** Nick Allardice CEO, GiveDirectly  
-**FROM:** Sarah Kayongo, VP, Programs  
-**DATE:** March 21, 2025  
-**SUBJECT:** Strategic Planning Recommendations: Country Footprint, Crisis Response, and Allocation of $100M in Flexible Funding  
+**To:** Nick Allardice, CEO  
+**From:** Sarah Kayongo, VP of Programs  
+**Date:** March 21, 2025  
+**Subject:** Strategic Planning Recommendations on Country Footprint, Crisis Response Investment, and $100M Allocation  
 
----
+---  
 
-### 1. Country Footprint Adjustments (Next 2–3 Years)
+**1. Country Footprint Recommendations (2025-2028)**  
 
-**Recommendation:** Prioritize strategic deepening over geographic expansion.
+**Consolidate and Deepen National-Scale Programs:**  
+- Continue scaling in Rwanda and Malawi, strengthening national-level programs through long-term government partnerships and integrated delivery systems. Position GiveDirectly (GD) as a technical advisor for national poverty eradication programs, aligned with national development strategies and SDG Goal 1: No Poverty ([link](https://www.globalgoals.org/goals/1-no-poverty/)).
+- Focus on politically stable countries with mature mobile money ecosystems and high poverty concentrations (e.g., Uganda, Kenya, Nigeria). Leverage Kenya’s financial ecosystem as a strategic hub for piloting hybrid cash transfer models with potential expansion to Nigeria.
+- Uganda, with its large refugee population (1M+), presents an opportunity for targeted intervention.   
 
-**Proposed Actions:**
-- **Exit or pause operations** in geographies with sustained delivery or fraud challenges (e.g., **DRC**, currently paused and high-risk).
-- **Double down** in high-impact, scalable markets: **Rwanda**, **Kenya**, and **Togo**. These countries offer strong government partnerships, operational track records, and data for long-term investment.
-- **Pilot programs** in 1–2 strategically chosen, underrepresented regions (e.g., **Sahel** or **Horn of Africa**) where climate-driven poverty is acute and digital infrastructure (e.g., mobile money) is emerging.
+**Expand Crisis Response Capabilities in High-Risk, Underserved Regions:**  
+- Increase readiness in the Sahel region (Niger, Chad) and Southern Africa (Mozambique, Madagascar).
+- Evaluate pilot programs in Francophone West Africa (Côte d'Ivoire, Senegal) to align with donor interest and digital finance growth.
+- In Ethiopia, capitalize on the recent launch of Airtel to implement impactful cash transfer projects for vulnerable populations and IDPs.  
 
-**Rationale:**  
-Chasing new country launches dilutes focus and risks executional mediocrity. Instead, we should become *the* global benchmark for cash delivery excellence in a concentrated footprint, then scale outward with political capital, data, and brand trust.
+**Rationale:**
+- Reduce operations where transfer efficiency falls below 80% due to institutional or infrastructural barriers.
+- Pilot programs in high-need countries that have adopted digital financial platforms (e.g., Ethiopia and Sierra Leone).  
+- Leverage Islamic financing models to justify expansion into Francophone West Africa.  
 
----
+---  
 
-### 2. $5M Investment in Crisis Response Footprint
+**2. Crisis Response Investment Plan ($5M Allocation)**  
 
-**Recommendation:** Build modular, tech-enabled crisis response infrastructure.
+**Objective:** Deliver cash within five days post-crisis across 20+ countries.  
 
-**Allocation Plan:**
-- **$1.5M** – Develop a central Crisis Response Playbook + surge staffing system (including rosters, contracts, and SOPs).
-- **$1.5M** – Stand up *pre-cleared, ready-to-launch* emergency programs in 3–4 diverse geographies (e.g., Nigeria, Turkey, Mozambique, Yemen).
-- **$1M** – Pre-position tech systems (beneficiary ID pipelines, payment rails, satellite/AI targeting tools).
-- **$1M** – Localized risk and safeguarding capacity-building in fragile contexts.
+- **$2M – Regional Hubs & Prepositioned Readiness:** Establish three regional hubs (East, West, and Southern Africa) with pre-negotiated payment agreements and emergency procurement frameworks.  
+- **$1M – Technology & AI for Crisis Detection & Fraud Mitigation:** Invest in AI-driven fraud detection, blockchain-based cash tracking, and satellite data integration for early response mechanisms.
+- **$1M – Cross-Sectoral Partnerships & Agreements:** Formalize MoUs with governments, UN agencies, fintech firms, banks, and mobile operators to ensure seamless crisis response operations.
+- **$1M – Capacity Building & Agile Management:** Develop a crisis response task force trained in rapid assessments, disbursement protocols, and field deployment, linked to regional hubs for agile response.  
 
-**Why:**  
-Speed is everything in a crisis—but speed without integrity can kill trust. We must design crisis readiness like a startup: lean, modular, and nimble. This $5M should act as a *force multiplier*, not a shallow band-aid.
+---  
 
----
+**3. Allocation Strategy for $100M Flexible Funds**  
 
-### 3. Allocation of $100M in Unrestricted Funds (Africa)
+**Objective:** Maximize impact for recipients while advancing GiveDirectly’s strategic goals.  
 
-**Guiding Principle:** Cash is not enough—cash plus dignity, data, and durable exits.
+**Country Allocations ($70M):**  
+- **Rwanda & Malawi – $20M:** Strengthen financial inclusion by partnering with local banks (e.g., Centenary Bank, Malawi) to integrate agent banking for efficient transfers.
+- **DRC & Mozambique – $15M:** Support conflict-prone and climate-affected regions with cash-plus interventions and AI-driven risk mitigation.  
+- **Nigeria, Kenya, Uganda – $25M:** Expand crisis preparedness and urban poverty reduction initiatives. In Uganda, address the refugee crisis (1M+ displaced persons).  
+- **Côte d'Ivoire & Senegal – $10M:** Conduct market assessments, pilot cash transfers, and test the model in predominantly Muslim contexts. Côte d’Ivoire could serve as a Francophone hub.  
 
-**Allocation Framework:**
-- **$60M** – Expand *sustained* basic income pilots in **Kenya** and **Rwanda**, generating gold-standard evidence and long-term impact.
-- **$20M** – Launch adaptive, time-bound livelihood boosts in **Nigeria**, **Malawi**, and **Uganda** with localized exit strategies.
-- **$10M** – Contingency and innovation: test digital ID-linked transfers in refugee populations or climate-vulnerable regions (e.g., Lake Chad Basin).
-- **$10M** – Operational backbone: invest in talent, fraud detection, and safeguarding systems to de-risk future scale.
+**Program Type Allocations ($30M):**  
+- **$10M – Crisis Response Reserve & Catalytic Investment:** Use capital investment strategies to generate compound interest for long-term financial sustainability. 
+- **$2M – Strengthen Local Market Ecosystems:** Connect recipients to business mentorship and supply chain networks to drive local economic growth.  
+- **$13M – Hybrid Cash Pilots:** Expand digital financial tools, micro-investments, and savings platforms for recipient economic mobility.  
+- **$3M – Technology & AI:** Implement blockchain-based fraud detection, digital ledger systems, and AI-driven financial literacy programs.  
+- **$2M – Evidence Generation & Thought Leadership:** Conduct rigorous impact evaluations (RCTs, experimental design) and publish strategic findings to position GD as a trusted advisor to governments, donors, and private-sector partners.  
 
-**Impact View:**  
-This is not just about poverty alleviation—it’s about institutional credibility and global agenda-setting. Let’s not just be effective; let’s be *undeniable*.
+**Key Considerations for Allocation:**  
+- Align with donor priorities (climate resilience, gender equity, economic mobility).  
+- Leverage innovative finance mechanisms for scalability and capital optimization.  
+- Strengthen local financial ecosystems to enhance recipient agency and long-term impact.  
+- Utilize AI and blockchain to improve efficiency, risk management, and transparency.  
+- Drive evidence-based policy influence through rigorous data and thought leadership.  
 
----
+---  
 
-**In summary:** GiveDirectly should become not just the best executor of cash transfers, but the global authority on how to do it *with trust, speed, and dignity*. The opportunity is here—and the world is watching.
+**Conclusion**  
 
-Respectfully,  
-Sarah Kayongo 
+This strategic plan positions GiveDirectly to achieve its $500M annual cash transfer goal by 2028 while strengthening crisis response, financial ecosystems, and evidence-based policy influence. These recommendations optimize scalability, efficiency, and impact to drive sustainable poverty alleviation efforts in Africa.  
+
+---  
+
+**Sarah Kayongo**  
 VP of Programs  
-
-
-
-Would you like a separate memo for the safeguarding incident response next?
+GiveDirectly
