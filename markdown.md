@@ -1,4 +1,6 @@
-# MEMORANDUM - Strategic Planning
+# Strategic Planning Recommendations
+
+MEMORANDUM 
 
 **To:** Nick Allardice, CEO  
 **From:** Sarah Kayongo, VP of Programs  
