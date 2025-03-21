@@ -3,6 +3,7 @@
 
 title: VP Program Memos to CEO
 author: Sarah Kayongo
+copyright: "2025"  
 logo: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/GiveDirectly_logo.svg/500px-GiveDirectly_logo.svg.png
 
 # Force re-execution of notebooks on each build.
