@@ -2,7 +2,7 @@
 # Learn more at https://jupyterbook.org/customize/config.html
 
 title: VP Program Memos to CEO
-author: CEO
+author: Sarah Kayongo
 logo: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/GiveDirectly_logo.svg/500px-GiveDirectly_logo.svg.png
 
 # Force re-execution of notebooks on each build.
