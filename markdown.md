@@ -78,7 +78,7 @@ MEMORANDUM
   Urban poverty, refugee response, and scale preparedness tools.
 
 - **Côte d'Ivoire & Senegal – $10M:**  
-  Entry assessments and pilot testing of cash programs in Muslim-majority contexts[^1][^6].
+  Entry assessments and pilot testing of cash programs in Muslim-majority contexts [^6].
 
 ---
 
