@@ -16,7 +16,7 @@ MEMORANDUM
 **Given GiveDirectly’s strategy of scaling impactful, efficient, and respectful interventions, combined with the goal of moving $500M annually by 2028, I recommend the following:**
 
 ### Consolidate and Deepen National-Scale Programs:
-- **Rwanda and Malawi:** Continue scaling national-level programs. Build long-term government partnerships and integrated delivery systems. Leverage political goodwill and existing evidence base to position GD as a technical advisor to governments. Align with national development strategies to accelerate SDG Goal #1[^1].
+- **Rwanda and Malawi:** Continue scaling national-level programs. Build long-term government partnerships and integrated delivery systems. Leverage political goodwill and existing evidence base to position GD as a technical advisor to governments. Align with national development strategies to accelerate SDG Goal [^1].
 
 - **High-Potential Countries (Uganda, Kenya, Nigeria):**
   - *Uganda*: Address rising refugee crisis (1,000,000+ refugees)[^2].
